@@ -1,0 +1,5 @@
+%TAG !e! tagmple.com,2000:app/
+---
+- !local foo
+- !!str bar
+- !e!tag%C1%baz

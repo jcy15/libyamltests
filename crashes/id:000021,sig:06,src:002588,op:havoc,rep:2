@@ -1,0 +1,13 @@
+ple.com,2000:app/
+---
+ !o
+? !
+---
+ !o
+?!soo
+- !!str baral foo
+- !!2 bapp/
+---
+- !local foo:app/
+---
+-rz
